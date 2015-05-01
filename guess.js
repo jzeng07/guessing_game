@@ -3,3 +3,5 @@ var myChoice = "Asia";
 document.write("A ha")
 
 document.write("with git to control the version")
+
+// add a line of comment
